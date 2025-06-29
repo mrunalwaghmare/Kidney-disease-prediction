@@ -1,3 +1,7 @@
+![Screenshot (260)](https://github.com/user-attachments/assets/88d0e164-a5ba-4033-8d81-2db03613fea0)
+![Screenshot (259)](https://github.com/user-attachments/assets/9aa7e8ae-d97b-4e69-992a-b92e53b215f5)
+
+
 # 🧠 Kidney Disease Prediction Web App
 
 A Django-based web application that predicts the risk of kidney disease using a machine learning model. Built with `SQLite3` as the backend database and integrates a pre-trained `.joblib` model for real-time predictions.
